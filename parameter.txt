@@ -1,0 +1,1 @@
+gat_nhead:8,strategy:v,dropout:0.6, dropbiword:0.6, gaz_dropout:0.4, droplstm:0, batch-size:10,alpha:0.1
