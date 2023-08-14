@@ -1,6 +1,6 @@
-# ESMG: Multi-Graph Collaborative Network for Chinese NER with Enhanced Semantic Feature Information 
+# MGES: Multi-Graph Collaborative Network for Chinese NER with Enhanced Semantic Dependency Feature Information 
 
-Source code for Multi-Graph Collaborative Network for Chinese NER with Enhanced Semantic Feature Information.
+Source code for Multi-Graph Collaborative Network for Chinese NER with Enhanced Semantic Dependency Feature Information.
 
 # Requirements:
 
@@ -56,4 +56,4 @@ Usage：
 Result：
 ====
 
-For WeiboNER dataset, using the default hyperparameters in parameter.txt can achieve the state-of-art results (Test F1: 66.66%). 
+For WeiboNER dataset, using the default hyperparameters in parameter.txt can achieve the state-of-art results (Test F1: 65.4%). 
